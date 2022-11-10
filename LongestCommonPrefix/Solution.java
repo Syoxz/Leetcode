@@ -1,4 +1,4 @@
-package longestCommonPrefix;
+package LongestCommonPrefix;
 
 import org.junit.jupiter.api.Test;
 
