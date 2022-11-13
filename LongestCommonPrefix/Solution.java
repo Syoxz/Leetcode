@@ -3,7 +3,9 @@ package LongestCommonPrefix;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
+/*
+https://leetcode.com/problems/longest-common-prefix/
+ */
 public class Solution {
     public static String longestCommonPrefix(String[] strs) {
         String prefix = strs[0];
