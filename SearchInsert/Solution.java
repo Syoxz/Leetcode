@@ -1,4 +1,4 @@
-package searchInsert;
+package SearchInsert;
 
 import org.junit.jupiter.api.Test;
 
