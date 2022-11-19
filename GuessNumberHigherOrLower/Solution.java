@@ -3,7 +3,9 @@ package GuessNumberHigherOrLower;
 import org.junit.jupiter.api.Test;
 
 import static org.testng.AssertJUnit.assertEquals;
-
+/*
+https://leetcode.com/problems/guess-number-higher-or-lower/
+ */
 public class Solution {
      public static int guessNumber(int n) {
             int left = 0, right = n;
